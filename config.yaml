@@ -1,0 +1,16 @@
+code: 131041
+gijiroku: data/gijiroku.csv
+giin: data/giin.csv
+iinkai: data/iinkai.csv
+years: data/years.csv
+jogai: data/exclusion.csv
+font: static/ShipporiMinchoB1-ExtraBold.ttf
+target:
+  place: 練馬区
+  start: 1947年10月
+  end: 2022年11月
+  url: https://www.city.nerima.tokyo.jp/gikai/kaigiroku.html
+developer:
+  name: 岡村健一
+  contact: https://twitter.com/Okamura_Kenichi
+  img: static/developer.png
